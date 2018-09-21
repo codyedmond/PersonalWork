@@ -8,7 +8,7 @@ int age = 16;
 Scanner input = new Scanner(System.in);
 System.out.println("How old are you");
 age= input.nextInt();
-age = age - 14;
+age = 18 - age;
 System.out.println("There are " + age + "years until you can vote");
 	}
 
