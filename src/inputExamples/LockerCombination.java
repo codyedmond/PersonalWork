@@ -15,8 +15,8 @@ second = input.nextInt();
 System.out.println("What is the third locker number");
 third= input.nextInt();
 System.out.println("Your first locker number is" + first);
-System.out.println("Your first locker number is" + second);
-System.out.println("Your first locker number is" + third);
+System.out.println("Your second locker number is" + second);
+System.out.println("Your third locker number is" + third);
 	}
 
 }
