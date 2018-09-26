@@ -24,7 +24,7 @@ System.out.println(" How many pennies do you have?");
 pennies=input.nextInt();
 change= dollars + quarters + nickels + pennies;
 System.out.println("Your change is" + dollars + quarters + dimes+ nickels + pennies);
-
+input.close();
 	}
 
 }
