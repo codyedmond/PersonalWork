@@ -1,7 +1,9 @@
 package objectorientedprogram;
 
 public class Neighbor {
-	public Neighbor() 
+	public Neighbor()
+	{
+	}
 	public void sayJoke(){
 	System.out.println("Why did Adele cross the road,To say hello from the other side! ");}
 	public void sayMoney(){
