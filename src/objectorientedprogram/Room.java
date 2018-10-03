@@ -19,7 +19,7 @@ public void sayArea()
 	
 	}
 
-public void AreawithDoor()
+public void AreaWithDoor()
 {
 double length = -999.0;
 double width = -999.9;
