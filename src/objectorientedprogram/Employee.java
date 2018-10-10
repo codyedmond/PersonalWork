@@ -14,12 +14,12 @@ public double getWage(){
 	return wage;
 }
 public double setWage(double newWage){
-	wage=newWage;
+	return wage=newWage;
 }
 public double getExperience(){
 	return experience;
 }
-public double setExperience(double newExperience)
+public void setExperience(double newExperience)
 {
 	experience=newExperience;
 			
