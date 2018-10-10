@@ -11,7 +11,7 @@ public void sayNumberPlus2(double num) {
 	num= num=+2;
 	System.out.println("Your number plus 2 is:" + num);}
 public void saySum(double first, double second){
-	System.out.println("answer=" + (first + second))}
+	System.out.println("answer=" + (first + second));}
 	public double returnSquare(double value){
 	double answer= value*value;
 	return answer;
@@ -22,5 +22,6 @@ public void saySum(double first, double second){
 	double area= length * width;
 	{
 		return second;
+}
 }
 }

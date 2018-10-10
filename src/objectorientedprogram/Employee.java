@@ -27,5 +27,5 @@ public double setExperience(double newExperience)
 public void giveRaise(){
 	wage=wage*1.10;
 }
-}}
+{}}
 
