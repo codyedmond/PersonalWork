@@ -21,7 +21,7 @@ public void saySum(double first, double second){
 	public double returnArea(double length, double width){
 	double area= length * width;
 	{
-		return second;
+		return area;
 }
 }
 }
