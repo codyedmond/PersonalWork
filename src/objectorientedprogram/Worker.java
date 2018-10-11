@@ -17,15 +17,22 @@ public class Worker {
 	}
 
 	public double getRate() {
-return rate;
-}
-public double setHours(int newHours){
-hours=newHours;
+		return rate;
+	}
+
+	public void setHours(int newHours) {
+		hours = newHours;
+	}
 	
-	public double setRate(double newRate){	
-rate=newRate;
+
+	public void setRate(double newRate) {
+		rate = newRate;
+	}
+
+	public double payCheck() {
+		return (hours * rate);
+	}
+
+	public void Raise(double newRaise) {
+	}
 }
-public double payCheck(){
-return (hours*rate);
-}
-public void Raise (double newRaise)
