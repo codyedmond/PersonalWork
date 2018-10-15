@@ -35,4 +35,8 @@ public class Worker {
 
 	public void Raise(double newRaise) {
 	}
+
+	
+		
+	}
 }
