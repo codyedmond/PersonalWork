@@ -14,5 +14,6 @@ System.out.println("Good Job for entering the score in the correct order!");
 System.out.println("The difference is:" + (first-second));
 	}
 System.out.println("That is not the correct order");
+System.out.println("Have a nice day");
 }
 }

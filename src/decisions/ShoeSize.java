@@ -1,5 +1,5 @@
 package decisions;
-
+import java.util.Scanner;
 public class ShoeSize {
 
 	public static void main(String[] args) {
