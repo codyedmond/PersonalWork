@@ -16,18 +16,15 @@ public class FamilyTrip {
 
 		if (age > 75) {
 			System.out.println("Pay an extra $125");
-
 		} 
 		if (age < 30) {
 			System.out.println("You get a $25 discount");
-
 		} 
 		if (weight > 700) {
 			System.out.println("Pay an extra $300");
 
 		}if (smoke == true) {
 			System.out.println("Pay an extra $50");
-
 		}
 		else
 			if (smoke == false) 

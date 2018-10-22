@@ -14,9 +14,9 @@ public class GradeCalculation {
  homeworkaverage=input.nextDouble();
 int answer= input.nextInt();
 
-	if( answer== true)
+	if( answer==true)
 	{
-if(homeoworkaverage>testaverage)
+if(homeworkaverage>testaverage)
 {
 System.out.println("Homework affects your grade more");
 }
