@@ -14,7 +14,7 @@ public class LargestValueEntered {
 		 num=input.nextDouble();
 		while (num != 9999)
 		{
-			
+			if(inputs>largest)
 		System.out.println("Please enter a number(9999 to quit)");
 		System.out.println("The largest double value is:" + largest);
 		num=input.nextDouble();
