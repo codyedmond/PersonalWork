@@ -7,10 +7,13 @@ public class DoWhile3 {
 Scanner input= new Scanner(System.in);
 System.out.println("Enter two numbers");
 int numbers=input.nextInt();
+int largest=numbers;
 do{
+	if(numbers> largest)
+		largest=numbers;
 System.out.println("Enter a number(9999 to quit):");
-int numbers=input.nextInt();
-}while(number !=9999;)
+int number=input.nextInt();
+}while(numbers !=9999);
 	System.out.println(largest);
 
 
